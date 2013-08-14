@@ -1,7 +1,7 @@
 #specfile originally created for Fedora, modified for Moblin Linux
 Name:           perl-Test-Pod-Coverage
-Version:        1.08
-Release:        5
+Version: 1.08
+Release: 6
 Summary:        Check for pod coverage in your distribution
 
 Group:          Development/Libraries
