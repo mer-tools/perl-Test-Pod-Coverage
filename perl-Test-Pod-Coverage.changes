@@ -1,0 +1,29 @@
+* Wed June 30 2010 Quanxian Wang <quanxian.wang@intel.com>  - 1.08-5
+- Add %doc before man file entry
+
+* Wed Feb 27 2008 Tom "spot" Callaway <tcallawa@redhat.com> - 1.08-5
+- Rebuild for perl 5.10 (again)
+
+* Sun Jan 13 2008 Tom "spot" Callaway <tcallawa@redhat.com> - 1.08-4
+- rebuild for new perl
+
+* Fri Sep  8 2006 Jose Pedro Oliveira <jpo at di.uminho.pt> - 1.08-3
+- Rebuild for FC6.
+
+* Sat Feb 18 2006 Jose Pedro Oliveira <jpo at di.uminho.pt> - 1.08-2
+- Rebuild for FC5 (perl 5.8.8).
+
+* Thu Jan 26 2006 Jose Pedro Oliveira <jpo at di.uminho.pt> - 1.08-1
+- Update to 1.08.
+
+* Thu May 12 2005 Jose Pedro Oliveira <jpo at di.uminho.pt> - 1.06-3
+- Add dist tag.
+
+* Fri Apr  7 2005 Michael Schwendt <mschwendt[AT]users.sf.net> - 1.06-2
+- rebuilt
+
+* Thu Jun 24 2004 Jose Pedro Oliveira <jpo at di.uminho.pt> - 0:1.06-1
+- Update to 1.06.
+
+* Wed Jun 02 2004 Jose Pedro Oliveira <jpo at di.uminho.pt> - 0:1.04-0.fdr.1
+- First build.
